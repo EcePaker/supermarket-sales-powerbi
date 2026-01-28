@@ -2,4 +2,4 @@
 Supermarket sales data analysis and Power BI dashboard
 ## Dashboard Preview
 
-![Dashboard Overview](images/PowerBI Dashboard .png)
+![Dashboard Overview](images/PowerBIDashboard.png)
